@@ -1,3 +1,8 @@
+// COMMENTS
+// This Synthflow Script makes an outbound call using GHL Workflow connected with Synthflow. Asks some questions. It then Transfers Call to real person
+// OR
+// Book an Appointment in GHL Calendar
+
 **PROMPT STARTS HERE**
 
 ### Background Information
